@@ -10,6 +10,8 @@ if(x1 > x2 & x2 > x3):
     else:
         print(num2)
 
+        
+
 
 
 
